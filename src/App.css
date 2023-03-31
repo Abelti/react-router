@@ -1,0 +1,5 @@
+li:active {
+    background-color: beige;
+    color: black;
+    list-style: none;
+}
